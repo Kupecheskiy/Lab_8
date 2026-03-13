@@ -9,7 +9,7 @@ import cv2
 # cv2.imshow('img', thresh)
 
 
-#Задание 2:
+#Задание 2 и 3:
 # def video_processing():
 #     cap = cv2.VideoCapture(0)
 #     down_points = (640, 480)
@@ -45,4 +45,5 @@ import cv2
 
 # video_processing()
 cv2.waitKey(0)
+
 cv2.destroyAllWindows()
